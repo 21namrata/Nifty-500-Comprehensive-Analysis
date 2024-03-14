@@ -17,8 +17,8 @@ Access the detailed analysis and presentation in the attached GitHub repository.
 The Google Colab notebook provided walks through the analysis process step by step.
 Utilize Google Colab for seamless access and execution of the analysis code.
 Fork the repository to contribute enhancements or use the insights for further research.
-💬 Feedback and Collaboration:
 
+💬 Feedback and Collaboration:
 We welcome feedback, suggestions, and collaboration opportunities. Feel free to reach out with your thoughts or ideas for further analysis.
 Let's unlock the financial insights together! 💡
 
