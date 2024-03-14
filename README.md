@@ -14,7 +14,7 @@ Visually engaging presentation summarizing key findings.
 📈 How to Use:
 
 Access the detailed analysis and presentation in the attached GitHub repository.
-The Jupyter Notebook provided walks through the analysis process step by step.
+The google colab notebook provided walks through the analysis process step by step.
 Utilize Google Colab for seamless access and execution of the analysis code.
 Fork the repository to contribute enhancements or use the insights for further research.
 💬 Feedback and Collaboration:
