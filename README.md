@@ -1,4 +1,3 @@
-GitHub Description:
 
 🚀 Financial Pulse of Nifty Companies: A Comprehensive Analysis 📊💼
 
